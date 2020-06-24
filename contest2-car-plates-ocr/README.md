@@ -7,3 +7,7 @@ https://www.kaggle.com/c/car-plates-ocr-made
 
 В качестве аугментаций пробовал Rotate и Pad из основного бейзлайна. 
 Варьировал размеры батча и число эпох
+
+Submit:
+
+![screen](https://github.com/Chernyshenko/CV/blob/master/contest2-car-plates-ocr/submission_sreen.png)
